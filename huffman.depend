@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1699889870 source:c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\test_huffman.cpp
+	<iostream>
+	"Huffman.hpp"
+
+1698949729 c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\huffman.hpp
+	<string>
+	<map>
+	"Heap.hpp"
+	"HNode.hpp"
+
+1698949726 c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\heap.hpp
+	"HNode.hpp"
+	<vector>
+
+1699889486 c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\hnode.hpp
+
+1699889224 source:c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\hnode.cpp
+	"HNode.hpp"
+
+1699990165 source:c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\heap.cpp
+	"Heap.hpp"
+
+1699990247 source:c:\users\niraj\onedrive\desktop\fall 2023\data structure\new folder\huffman\huffman.cpp
+	"Huffman.hpp"
+
